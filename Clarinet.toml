@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.knowledge-transfer]
+path = 'contracts/knowledge-transfer.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.seasonal-scheduling]
 path = 'contracts/seasonal-scheduling.clar'
 clarity_version = 2

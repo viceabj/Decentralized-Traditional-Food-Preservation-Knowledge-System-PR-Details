@@ -60,6 +60,16 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: knowledge-transfer
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/knowledge-transfer.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: seasonal-scheduling
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/seasonal-scheduling.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: technique-registration
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/technique-registration.clar
