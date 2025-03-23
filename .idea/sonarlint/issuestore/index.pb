@@ -5,3 +5,11 @@ U
 %contracts/technique-registration.clar,4/c/4cef8ce9a5f10fecece53d135c828f1d0b189a42
 T
 $tests/technique-registration.test.ts,f/e/fe348366f49c7cc126e3064745a4f1fada7c56df
+R
+"contracts/seasonal-scheduling.clar,6/c/6ca5c157147029985d17f5fa838d556bec06ff78
+Q
+!tests/seasonal-scheduling.test.ts,0/7/07506c1c102bed9f6e1b84cf5c00f308a7a4854b
+Q
+!contracts/knowledge-transfer.clar,d/b/dbf06876fb03fef5d6c6921994472a92f03f649b
+P
+ tests/knowledge-transfer.test.ts,b/6/b61ddfe64ce476da36eaa0ff6263b5f6faa08519
